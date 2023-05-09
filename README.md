@@ -13,7 +13,7 @@ https://github.com/sebasgonvitec/TC2005B_Equipo3
 El video de demostración del proyecto se encuentra en el siguiente link:
 https://www.youtube.com/watch?v=EVpygDt4nYk
 
-![Asleep](https://github.com/sebasgonvitec/portafolio-ev-intermedia-sgv/blob/main/aslpeed.png)
+![Asleep](https://github.com/sebasgonvitec/portafolio-ev-intermedia-sgv/blob/main/imgs/aslpeed.png)
 
 ## 2. Sistema de Archivos para Alcadía AO
 Durante este proyecto desarrollamos una aplicación de manejo de Archivos para la alcaldía Álvaro Obregón. La aplicación permite a los usuarios subir archivos en su respectiva área para tener mejor gestión y acceso a ellos utilizando cosas como búsqueda y filtrado. Adicionalmente se implementaron elementos de seguridad como una autenticación y autorización basada en roles, encripción de la base de datos y los archivos subidos y protocolo HTTPS. La aplicación fue desarrollada en React para el frontend y Node.js para el backend. La base de datos utilizada fue MongoDB.
@@ -24,7 +24,7 @@ https://github.com/sebasgonvitec/TC2007B_Equipo3
 El video de demostración del proyecto se encuentra en el siguiente link:
 https://www.youtube.com/watch?v=tYwMd8G4iY4
 
-![File System for Local Municipality](https://github.com/sebasgonvitec/portafolio-ev-intermedia-sgv/blob/main/alcadio.png)	
+![File System for Local Municipality](https://github.com/sebasgonvitec/portafolio-ev-intermedia-sgv/blob/main/imgs/alcadio.png)	
 
 ## 3. Simulación de Tráfico
 Durante este proyecto desarrollamos una simulación basada en agentes del tráfico en una ciudad. Esta simulación incluye reglas de tránsito como sentidos de las calles, semáforos y permite que los coches naveguen a través de la ciudad evadiendo obstáculos y otros coches. El propósito de esta actividad fue obtener datos acerca del comportamiento de los coches en una ciudad. El proyecto fue desarrollado en Python utilizando la librería Mesa para la simulación y Unity para la visualización de la simulación. Adicionalmente utilizamos Flask para crear una API que permitiera a Unity obtener los datos de la simulación.
@@ -44,4 +44,4 @@ https://github.com/SFMBa01029956/TC3005B.501/tree/main/App/swivel
 
 No hay video de demostración :( (todavía)
 
-![Swivel](https://github.com/sebasgonvitec/portafolio-ev-intermedia-sgv/blob/main/swuile.png)
+![Swivel](https://github.com/sebasgonvitec/portafolio-ev-intermedia-sgv/blob/main/imgs/swuile.png)
